@@ -1,0 +1,8 @@
+{
+    "items" : [
+        {
+            "key" : "first_key",
+            "value" : "Hoy es un día soleado con un clima y ambiente hermosos, la temperatura también es fresca. Solo quedan unos días antes de que comience la temporada de festivales."
+        }
+    ]
+}
