@@ -2,7 +2,7 @@
     "items" :[
         {
             "key" : "first_key",
-            "value" : "this is a localization test in English"
+            "value" : "Today is a sunny day with beautiful weather and atmosphere, the temperature is also cool. Only a few days remain before the festival season starts."
         }
     ]
 }
