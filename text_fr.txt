@@ -2,7 +2,7 @@
     "items" : [
         {
             "key" : "first_key",
-            "value" : "c'est un test de localisation en anglais"
+            "value" : "Aujourd'hui est une journée ensoleillée avec un temps et une ambiance magnifiques, la température est également fraîche. Il ne reste que quelques jours avant le début de la saison des festivals."
         }
     ]
 }
