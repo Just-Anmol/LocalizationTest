@@ -1,0 +1,8 @@
+{
+    "items" :[
+        {
+            "key" : "first_key",
+            "value" : "this is a localization test in English"
+        }
+    ]
+}
