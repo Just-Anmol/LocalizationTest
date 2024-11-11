@@ -1,0 +1,8 @@
+{
+    "items" : [
+        {
+            "key" : "first_key",
+            "value" : "c'est un test de localisation en anglais"
+        }
+    ]
+}
